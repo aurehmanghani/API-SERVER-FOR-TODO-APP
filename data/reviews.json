@@ -1,0 +1,30 @@
+[
+                {
+                    "id": 1,
+                    "author": "Dan",
+                    "stars": 2,
+                    "body": "Not up to the mark",
+                    "pId": 1
+                },
+                {
+                    "id": 2,
+                    "author": "Harry",
+                    "stars": 3,
+                    "body": "Not satisfied",
+                    "pId": 1
+                },
+                {
+                    "id": 3,
+                    "author": "Tom",
+                    "stars": 4,
+                    "body": "Amazing",
+                    "pId": 1
+                },
+                {
+                    "id": 4,
+                    "author": "Sam",
+                    "stars": 1,
+                    "body": "Box was already opened",
+                    "pId": 1
+                }
+            ]
